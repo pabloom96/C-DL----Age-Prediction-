@@ -34,4 +34,4 @@ The Good Seed supermarket chain would like to explore whether data science can h
 * Due the the nature of the problem, it is recomended to perform the training using a GPU beacuse of the high ammount of computational resources needed.
 
 1- Open the .ipynb file
-2- You can download the dataset using this link:  .
+2- You can download the dataset using this link: https://drive.google.com/drive/folders/1XqwA_zBQccddX-bvMPL9pezNokh5N1Np?usp=sharing
